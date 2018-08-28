@@ -8,3 +8,9 @@ body {
 	height: 100px;
 	width: 100px;
 }
+
+.board{
+	background-color: #A9A9A9;
+	width: 900px;
+	height: 700px;
+}
